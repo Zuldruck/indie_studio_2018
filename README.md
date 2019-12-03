@@ -29,9 +29,9 @@ Indie Studio implements a Multi Player mode in which we can play with your frien
 
 ## <a name="contributors"></a>Contributors
 
-- [Simon Provost](github.com/simonprovost)
-- [Clément Baudonnel](github.com/Skyrize)
-- [Lucas Sanchez](github.com/Zuldruck)
-- [Léos Julien](github.com/Julien-Leos)
-- [Robin Chailley](github.com/RobinChailley)
-- [Nicolas Jaussaud](github.com/NicolasJaussaud)
+- [Simon Provost](https://github.com/simonprovost)
+- [Clément Baudonnel](https://github.com/Skyrize)
+- [Lucas Sanchez](https://github.com/Zuldruck)
+- [Léos Julien](https://github.com/Julien-Leos)
+- [Robin Chailley](https://github.com/RobinChailley)
+- [Nicolas Jaussaud](https://github.com/NicolasJaussaud)
